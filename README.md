@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>
-    mahasiswa. builder. currently in an unrelationship — with everything.<br />
+    student. builder. currently in an unrelationship — with everything.<br />
     no commitments, no labels, just shipping.
   </em>
 </p>
@@ -38,17 +38,3 @@
 - design as a way of thinking, not just aesthetics
 
 ---
-
-## elsewhere
-
-<p>
-  <a href="https://github.com/sureisweird">GitHub</a> ·
-  <a href="#">LinkedIn</a> ·
-  <a href="#">Instagram</a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sureisweird&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub streak" height="150" />
-</p>
